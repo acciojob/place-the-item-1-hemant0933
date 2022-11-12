@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+#d1{
+    background-color: chartreuse;
+    width:100px;
+    height: 100px;
+    
+    /* display: inline-block; */
+    
+}
+#d2{
+    background-color: blue;
+    width:100px;
+    height: 100px;
+    /* display: inline-block; */
+}
+#d3{
+    background-color: red;
+    width:100px;
+    height: 100px;
+    /* display: inline-block; */
+}
