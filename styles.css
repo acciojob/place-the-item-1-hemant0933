@@ -2,12 +2,14 @@
 /* Your CSS Code here. */
 .holder{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 #d1{
     background-color: chartreuse;
     width:100px;
     height: 100px;
+    
     
     /* display: inline-block; */
     
